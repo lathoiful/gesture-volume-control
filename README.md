@@ -84,12 +84,6 @@ Tekan **Q** untuk keluar dari program.
 
 ---
 
-## 📸 Preview
-
-*(Tambahkan screenshot / GIF demo di sini)*
-
----
-
 ## 📚 Teknologi
 
 * Python 3.10
@@ -109,7 +103,7 @@ Bebas digunakan dan dimodifikasi.
 ## 👤 Author
 
 **Lathoiful Ikhsan**
-SMK Student | Python & IoT Enthusiast
+SMK Student
 
 ---
 
