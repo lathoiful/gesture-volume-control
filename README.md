@@ -1,6 +1,6 @@
-# 🎚️ FingrVol — Gesture Volume Control (Python)
+# 🎚️ FingerVol — Gesture Volume Control (Python)
 
-**FingrVol** memungkinkan kamu **mengatur volume komputer menggunakan gerakan jari** melalui webcam.  
+**FingerVol** memungkinkan kamu **mengatur volume komputer menggunakan gerakan jari** melalui webcam.  
 Program ini memanfaatkan **MediaPipe Hand Tracking**, **OpenCV**, dan **PyCaw** (khusus Windows).
 
 ---
